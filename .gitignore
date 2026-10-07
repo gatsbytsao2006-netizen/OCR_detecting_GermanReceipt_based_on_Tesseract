@@ -1,0 +1,13 @@
+# Byte-compiled files and Python environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Machine-specific VS Code configuration
+.vscode/settings.json
+
+# Private input receipt and generated OCR artifacts
+/CheckFromALDI.jpg
+/GermanDetect/output/
